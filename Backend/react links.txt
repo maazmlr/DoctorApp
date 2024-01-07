@@ -1,0 +1,6 @@
+deign
+https://www.figma.com/file/zWSXnq8DHMxjat6XMFXqPc/ReactFacts-(Copy)?type=design&node-id=0-4&t=MVGcAB59284oFUIN-0
+
+tutorial
+
+https://scrimba.com/learn/learnreact/first-react-practice-codb545d191c6488eb4d30204

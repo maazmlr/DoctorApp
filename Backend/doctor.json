@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Dr. John Doe",
+      "category": "Cardiologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "9:00 AM - 5:00 PM",
+      "img_url": "https://example.com/doctor1.jpg",
+      "rating": 4.8,
+      "ratingCount": 120
+    },
+    {
+      "name": "Dr. Jane Smith",
+      "category": "Dermatologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "10:00 AM - 6:00 PM",
+      "img_url": "https://example.com/doctor2.jpg",
+      "rating": 4.9,
+      "ratingCount": 95
+    },
+    {
+      "name": "Dr. Michael Johnson",
+      "category": "Pediatrician",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "9:30 AM - 4:30 PM",
+      "img_url": "https://example.com/doctor3.jpg",
+      "rating": 4.7,
+      "ratingCount": 80
+    },
+    {
+      "name": "Dr. Sarah Adams",
+      "category": "Cardiologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "8:00 AM - 4:00 PM",
+      "img_url": "https://example.com/doctor4.jpg",
+      "rating": 4.6,
+      "ratingCount": 110
+    },
+    {
+      "name": "Dr. James Wilson",
+      "category": "Dermatologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "10:00 AM - 6:00 PM",
+      "img_url": "https://example.com/doctor5.jpg",
+      "rating": 4.9,
+      "ratingCount": 135
+    },
+    {
+      "name": "Dr. Emily Brown",
+      "category": "Pediatrician",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "9:00 AM - 5:00 PM",
+      "img_url": "https://example.com/doctor6.jpg",
+      "rating": 4.5,
+      "ratingCount": 70
+    },
+    {
+      "name": "Dr. Robert Lee",
+      "category": "Cardiologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "8:30 AM - 4:30 PM",
+      "img_url": "https://example.com/doctor7.jpg",
+      "rating": 4.7,
+      "ratingCount": 95
+    },
+    {
+      "name": "Dr. Lisa Martinez",
+      "category": "Dermatologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "10:30 AM - 5:30 PM",
+      "img_url": "https://example.com/doctor8.jpg",
+      "rating": 4.8,
+      "ratingCount": 105
+    },
+    {
+      "name": "Dr. William Anderson",
+      "category": "Pediatrician",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "8:00 AM - 4:00 PM",
+      "img_url": "https://example.com/doctor9.jpg",
+      "rating": 4.6,
+      "ratingCount": 88
+    },
+    {
+      "name": "Dr. Laura Wilson",
+      "category": "Dermatologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "9:00 AM - 5:00 PM",
+      "img_url": "https://example.com/doctor10.jpg",
+      "rating": 4.9,
+      "ratingCount": 120
+    },
+    {
+      "name": "Dr. Mark Davis",
+      "category": "Cardiologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "10:00 AM - 6:00 PM",
+      "img_url": "https://example.com/doctor11.jpg",
+      "rating": 4.8,
+      "ratingCount": 130
+    },
+    {
+      "name": "Dr. Karen Moore",
+      "category": "Pediatrician",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "9:30 AM - 4:30 PM",
+      "img_url": "https://example.com/doctor12.jpg",
+      "rating": 4.7,
+      "ratingCount": 92
+    },
+    {
+      "name": "Dr. Daniel Taylor",
+      "category": "Dermatologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "8:00 AM - 4:00 PM",
+      "img_url": "https://example.com/doctor13.jpg",
+      "rating": 4.6,
+      "ratingCount": 78
+    },
+    {
+      "name": "Dr. Linda Johnson",
+      "category": "Cardiologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "9:00 AM - 5:00 PM",
+      "img_url": "https://example.com/doctor14.jpg",
+      "rating": 4.8,
+      "ratingCount": 105
+    },
+    {
+      "name": "Dr. Richard Brown",
+      "category": "Dermatologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "10:00 AM - 6:00 PM",
+      "img_url": "https://example.com/doctor15.jpg",
+      "rating": 4.9,
+      "ratingCount": 140
+    },
+    {
+      "name": "Dr. Maria Garcia",
+      "category": "Pediatrician",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "9:00 AM - 5:00 PM",
+      "img_url": "https://example.com/doctor16.jpg",
+      "rating": 4.7,
+      "ratingCount": 98
+    },
+    {
+      "name": "Dr. Kevin Adams",
+      "category": "Cardiologist",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "8:30 AM - 4:30 PM",
+      "img_url": "https://example.com/doctor17.jpg",
+      "rating": 4.8,
+      "ratingCount": 112
+    },
+    {
+      "name": "Dr. Jessica Lewis",
+      "category": "Dermatologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "10:30 AM - 5:30 PM",
+      "img_url": "https://example.com/doctor18.jpg",
+      "rating": 4.5,
+      "ratingCount": 75
+    },
+    {
+      "name": "Dr. Christopher Wright",
+      "category": "Pediatrician",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "timing": "9:00 AM - 5:00 PM",
+      "img_url": "https://example.com/doctor19.jpg",
+      "rating": 4.6,
+      "ratingCount": 85
+    },
+    {
+      "name": "Dr. Amanda Clark",
+      "category": "Cardiologist",
+      "days": ["Tuesday", "Thursday"],
+      "timing": "8:00 AM - 4:00 PM",
+      "img_url": "https://example.com/doctor20.jpg",
+      "rating": 4.9,
+      "ratingCount": 125
+    }
+  ]
+  
